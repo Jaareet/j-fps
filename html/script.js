@@ -28,7 +28,7 @@ $(function(){
 
     document.onkeyup = function (event) {
         if (event.key == 'Escape') {
-            $.post('https://c-fps/mdn_close', JSON.stringify({}));
+            $.post('https://c-fps/close', JSON.stringify({}));
         };
     };
 });
