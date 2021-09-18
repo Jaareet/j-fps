@@ -36,6 +36,6 @@ RegisterCommand('moveFpsCounter',  function()
     Notify('Pulsa ~y~ESCAPE~s~ para salir')
 end)
 
-RegisterNUICallback('mdn_close', function()
+RegisterNUICallback('close', function()
     SetNuiFocus(false, false)
 end)
