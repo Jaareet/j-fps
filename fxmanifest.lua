@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'Draw FPS Script FiveM by Jaareet#0097'
+description 'Draw FPS Script FiveM by Jaareet#0097 & Carlooss#2021'
 
 client_script 'client.lua'
 
