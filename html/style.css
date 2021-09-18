@@ -1,0 +1,32 @@
+body {
+    overflow: hidden;
+}
+
+.fpsbox {
+    position: absolute;
+    right: 1%;
+    top: 10%;
+    padding: 5px;
+    width: fit-content;
+    opacity:100;
+    border-radius:.2rem;
+    background-color:rgba(255,255,255,0.87);
+    box-shadow: 0 0 5px #000;
+    animation:selectedMenu 0.5s ;
+    animation: box 1s
+}
+
+.fpsbox .text {
+    font-family: 'Poppins';
+    font-size: 1.2vh;
+    text-transform: uppercase;
+    color: #000;
+}
+
+
+/* ANIMATION */
+
+@keyframes box {
+    from{transform: translateX(50rem);opacity: 0;}
+    to{transform: translateX(0); opacity: 1;}
+}
