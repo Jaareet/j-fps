@@ -2,10 +2,10 @@ local prevtime = GetGameTimer()
 local prevframes = GetFrameCount()
 local fps = -1
 
-Citizen.CreateThread(function()	  
+CreateThread(function()	  
         
     while not NetworkIsPlayerActive(PlayerId()) or not NetworkIsSessionStarted() do	        
-        Citizen.Wait(250)
+        Wait(250)
         prevframes = GetFrameCount()
         prevtime = GetGameTimer()            
     end
@@ -26,7 +26,7 @@ Citizen.CreateThread(function()
                 fps = fps
             })
         end            
-        Citizen.Wait(1000)
+        Wait(1000)
     end	
 end)
 
