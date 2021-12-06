@@ -10,6 +10,6 @@
 <img src = "https://i.imgur.com/oURvl20.png" width="500">
 
   <h3>Easy to configure</h3>
-  <hr width="1000">
-  <img src = "https://imgur.com/o56YVty.png" width="800">
+  <hr width="800">
+  <img src = "https://imgur.com/o56YVty.png" width="1000">
 </div>
