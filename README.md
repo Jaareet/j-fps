@@ -11,5 +11,5 @@
 
   <h3>Easy to configure</h3>
   <hr width="1000">
-  <img src = "https://imgur.com/o56YVty.png" width="1000">
+  <img src = "https://imgur.com/o56YVty.png" width="800">
 </div>
