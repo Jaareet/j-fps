@@ -7,7 +7,7 @@
 <hr width="400">
 <h3>PREVIEW</h3>  
 <hr width="500">
-<img src = "https://i.imgur.com/oURvl20.png" width="350">
+<img src = "https://i.imgur.com/oURvl20.png" width="500">
 
   <h3>Easy to configure</h3>
   <hr width="1000">
