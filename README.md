@@ -2,16 +2,10 @@
 
 </h4>
   
-<h2>Jaareet#0097 FPS Counter<h2>
+<h3>Jaareet#0097 FPS Counter<h3>
 
-<hr width="100">
-  
-  <h2>
-  
-<div align = "left">
-  <h4>PREVIEW</h4>  
-  <hr width="10vw">
-  <img src = "https://i.imgur.com/oURvl20.png" width="100">
-</div>
-  
+<hr width="400">
+<h3>PREVIEW</h3>  
+<hr width="500">
+<img src = "https://i.imgur.com/oURvl20.png" width="350">
 </div>
