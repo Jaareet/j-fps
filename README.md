@@ -8,4 +8,8 @@
 <h3>PREVIEW</h3>  
 <hr width="500">
 <img src = "https://i.imgur.com/oURvl20.png" width="350">
+
+  <h3>Easy to configure</h3>
+  <hr width="1000">
+  <img src = "https://imgur.com/o56YVty.png" width="1000">
 </div>
