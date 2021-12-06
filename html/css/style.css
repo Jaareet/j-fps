@@ -1,0 +1,30 @@
+body {
+    overflow: hidden;
+    cursor: default;
+}
+
+@font-face {
+    font-family: Ondo-Medium;
+    src: local("Ondo Medium"),
+    url("../fonts/Ondo-Medium.otf")
+    format("opentype");
+}
+
+.container {
+    position: absolute;
+    right: 1%;
+    top: 5%;
+    padding: .2vw;
+    width: fit-content;
+    opacity:100;
+    border-radius:.2rem;
+    background-color:#202020;
+    box-shadow: 0 0 .3vw #000;
+}
+
+span.text {
+    font-family: Ondo-Medium;
+    font-size: 1.2vh;
+    text-transform: uppercase;
+    color: #ccc;
+}
