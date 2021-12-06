@@ -109,7 +109,7 @@ if(Options.moveFPSMenu)then;
     end)
 
     function showFPSMenu()
-        ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'armory_', {
+        ESX.UI.Menu.Open('default', GetCurrentResourceName(), 'fpsMoveMenu', {
             title = "FPS Counter Menu",
             align = "bottom-right",
             elements = {
